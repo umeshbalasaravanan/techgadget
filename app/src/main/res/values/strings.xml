@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tech Gadget</string>
+    <string name="titleTextVal">Smart Tech Gadget</string>
+    <string name="iconImageVal">gadget image</string>
+    <string name="subTitleTextVal">About :</string>
+    <string name="shortDescVal">The #1 platform to discover the best products on the market. Cool app that provides information about the latest gadgets and redirects to its official website.</string>
+    <string name="gadgetViewBtnVal">view gadgets</string>
+    <string name="macbookProImageVal">macbook pro image</string>
+    <string name="btnVal">view details</string>
+    <string name="IphoneElevenProContentDesc">Iphone 11 Pro Image</string>
+    <string name="iphoneElevenImageDesc">Iphone 11 image</string>
+    <string name="ipadProImageDesc">Ipad pro image</string>
+    <string name="airPodsProImageDesc">air pods pro image</string>
+    <string name="pictureTextViewVal">Picture Text</string>
+    <string name="macbookProTextVal">Macbook Pro</string>
+    <string name="iphoneElevenTextVal">Iphone 11</string>
+    <string name="iphoneElevenProTextVal">Iphone 11 Pro</string>
+    <string name="ipadProTextVal">Ipad Pro</string>
+    <string name="airPodsProTextVal">Airpods Pro</string>
+    <string name="macbookProUrlVal">https://www.apple.com/macbook-pro-16/</string>
+    <string name="iphoneElevenUrlVal">https://www.apple.com/iphone-11/</string>
+    <string name="iphoneElevenProUrlVal">https://www.apple.com/iphone-11-pro/</string>
+    <string name="ipadProUrlVal">https://www.apple.com/ipad-pro/</string>
+    <string name="airPodsProUrlVal">https://www.apple.com/airpods-pro/</string>
+
+    <string-array name="attraction">
+        <item>Mac book pro</item>
+        <item>iphone 11</item>
+        <item>iphone 11 pro</item>
+        <item>ipad pro</item>
+        <item>Airpods pro</item>
+    </string-array>
+
+</resources>

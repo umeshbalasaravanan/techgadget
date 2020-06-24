@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextSize">26sp</dimen>
+    <dimen name="subTitleTextSize">26sp</dimen>
+    <dimen name="margin5dp">5dp</dimen>
+    <dimen name="shortDescTextSize">14sp</dimen>
+</resources>
